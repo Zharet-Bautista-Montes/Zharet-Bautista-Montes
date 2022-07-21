@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋🏽 I'm Zharet, and welcome to my projects portfolio 👌🏽
+
+🔭 I don't have a job currently, but I'm working on my personal brand (Resumé, LinkedIn and this GitHub) to get one soon.  
+🌱 I’m currently learning Cloud Infrastructure, Haskell Language and Blue Team topics. I'm also improving in English and German. 
+👯 I’m looking to resume the research I've done for my thesis, and which I had to pause because of burnout. 
+⚡ Fun fact: My favorite spare time activities are eating (I LOVE IT) and playing Plants vs Zombies 2
 
 <!--
 **Zharet-Bautista-Montes/Zharet-Bautista-Montes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
