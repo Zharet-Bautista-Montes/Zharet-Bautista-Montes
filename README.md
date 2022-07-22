@@ -2,7 +2,7 @@
 
 I live in Bogotá, Colombia, and I studied Systems and Computing Engineering at the University of Andes. 
 
-The fields I would love to work in are Information Security in general, IT Infrastructure, Systems Administration, Cryptography, Research in Computer Science and Systems Modeling. I'm also interested in Ethical Hacking, Informatics applied to Biomedical contexts and Data Analytics for Cybersecurity. I'm just starting in this thrilling,  interesting and challenging career path, so please wih me luck! 
+The fields I would love to work in are Information Security in general, IT Infrastructure, Systems Administration, Cryptography, Research in Computer Science and Systems Modeling. I'm also interested in Ethical Hacking, Informatics applied to Biomedical contexts and Data Analytics for Cybersecurity. I'm just starting in this thrilling,  interesting and challenging career path, so please wih me luck! 🤞🏽
 
 🔭 I don't have a job currently, but I'm working on my personal brand (Resumé, LinkedIn and this GitHub) to get one soon.  
 
