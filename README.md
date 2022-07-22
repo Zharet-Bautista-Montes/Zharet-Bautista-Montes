@@ -10,11 +10,11 @@ The fields I would love to work in are Information Security in general, IT Infra
 
 👯 I’m looking to resume the research I've done for my thesis, and which I had to pause because of burnout. 
 
-⚡ Fun fact: My favorite spare time activities are eating (I LOVE IT), learning languages, reading, listening podcasts and playing Plants vs Zombies 2. 
+⚡ Fun fact: My favorite spare time activities are eating (I LOVE IT), learning languages, reading articles, listening podcasts and playing Plants vs Zombies 2. 
 
-📫 You can reach me at the email zd.bautista@uniandes.edu.co, and also by my WhatsApp / phone number: +57 3219966855
+📫 You can reach me at the email zd.bautista@uniandes.edu.co, and also by my WhatsApp / Phone Number: +57 3219966855
 
-#### Information security Research: 
+#### Information Security Research: 
 
 * Detection System for Organizational Breaches (DSBO)
 
