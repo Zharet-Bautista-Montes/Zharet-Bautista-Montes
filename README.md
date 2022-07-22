@@ -32,7 +32,7 @@ The fields I would love to work in are Information Security in general, IT Infra
 
 #### Another Testing Algorithms (Possible Future Libraries):
 
-* Minimal Degrees and Quoefficients (MDQ), new proposed interpolation algorithm
+* [Minimal Degrees and Quoefficients (MDQ), new proposed interpolation algorithm](https://github.com/Zharet-Bautista-Montes/MDQ-Interpolation)
 
 #### My Preferred Practice Tasks from University: 
 
