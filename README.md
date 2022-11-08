@@ -1,18 +1,18 @@
 ## Hi there 👋🏽 I'm Zharet, and welcome to my projects portfolio 👌🏽
 
-I live in Bogotá, Colombia, and I studied Systems and Computing Engineering at the University of Andes. 
+I live in Bogotá, Colombia, and I am recently graduated in Systems and Computing Engineering at the University of Andes. 
 
-The fields I would love to work in are Information Security in general, IT Infrastructure, Systems Administration, Cryptography, Research in Computer Science and Systems Modeling. I'm also interested in Ethical Hacking, Informatics applied to Biomedical contexts and Data Analytics for Cybersecurity. I'm just starting in this thrilling,  interesting and challenging career path, so please wih me luck! 🤞🏽
+The fields I intend to work in are Information Security in general, IT Infrastructure, Systems Administration, Cryptography, Research in Computer Science and Systems Modeling. I'm also interested in Ethical Hacking, Informatics applied to Biomedical contexts and Data Analytics for Cybersecurity. I'm just starting in this thrilling,  interesting and challenging career path, so please wih me luck! 🤞🏽
 
-🔭 I don't have a job currently, but I'm working on my personal brand (Resumé, LinkedIn and this GitHub) to get one soon.  
+🔭 I got a job since November 2022 as Information Security Consultant at CYTE®; but before that, I've been working on my personal brand (Resumé, LinkedIn and this GitHub) .  
 
-🌱 I’m currently learning Cloud Infrastructure, Haskell Language and Blue Team topics. I'm also improving in English and German. 
+🌱 I’m currently learning Infrastructure, some programming languages like Haskell and Red Team topics. I'm also improving in English and German. 
 
 👯 I’m looking to resume the research I've done for my thesis, and which I had to pause because of burnout. 
 
-⚡ Fun fact: My favorite spare time activities are eating (I LOVE IT), learning languages, reading articles, listening podcasts and playing Plants vs Zombies 2. 
+⚡ Fun fact: My favorite spare time activities are eating, learning languages, reading articles, listening podcasts and playing Plants vs Zombies 2. 
 
-📫 You can reach me at the email zd.bautista@uniandes.edu.co, and also by my WhatsApp / Phone Number: +57 3219966855
+📫 You can reach me at the emails zd.bautista@uniandes.edu.co or zbautista@cyte.co, and also by my WhatsApp / Phone Number: +57 3219966855
 
 #### Information Security Research: 
 
